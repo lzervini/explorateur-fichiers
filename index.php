@@ -25,6 +25,7 @@ foreach($breadcrumbs as $item){
         echo $item; 
         echo "</button>";
 
+
     }
 echo "</form>";
 $contents = [];
